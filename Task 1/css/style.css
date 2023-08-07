@@ -1,0 +1,41 @@
+@font-face{
+ 	src: url('../fonts/BerkshireSwash-Regular.ttf');
+ 	font-family: Indonesian;
+ }
+.btn{
+	background-color:  #6D28FC;
+	border-radius: 2rem;
+}
+.main{
+	letter-spacing: .1rem;
+	word-spacing: .2rem;
+	height: auto;
+}
+.services_section{
+	background-color: #EEEFF1;
+}
+ /* <!-- TESTIMONIAL SECTION START --*/
+
+.test_font{
+    font-family: Indonesian;
+   /* padding-top: 3rem;*/
+}
+
+       .icon-container {
+  display: flex;
+  justify-content: center;
+}
+
+.icon {
+  background-color: black;
+  color: #4caf50;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+
+}                 
+                    /*<!-- TESTIMONIAL SECTION END -->*/
